@@ -41,6 +41,10 @@ left join tbl_b on tbl_a.c1 = tbl_b.c1
 
 select *
 from tbl_a
+left join tbl_b on tbl_a.c1 = tbl_b.c1 and tbl_b.c1 = 1
+
+select *
+from tbl_a
 inner join tbl_b on tbl_a.c1 = tbl_b.c1 or tbl_a.c1 = 8
 
 select *
