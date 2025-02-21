@@ -14,3 +14,16 @@ https://dion.vc/event/smanyakhina-aaa
 https://tsum-ru.zoom.us/j/86525905255?pwd=2hA0jwFDIoXo7VdvWXtCsRRdOD4UYa.1  
 Идентификатор конференции: 865 2590 5255  
 Код доступа: 934576  
+
+#### [Инженер данных DWH в Яндекс.Маркет](https://getmatch.ru/vacancies/21403?s=my_vacancies)  
+**24.04.25 в 15.00**  
+@eelleennss
+
+#### [Лига Цифровой Экономики](https://voronezh.hh.ru/vacancy/116155206) (4,2)  
+**24.04.25 после 18**  
++7 905 049-38-79  
+
+#### [Ekleft](https://ekleft.ru/)  
+**24.04.25 после 18**  
++7 925 253-13-03  
+
