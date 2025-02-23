@@ -1,5 +1,7 @@
 ### Заметки  
 
+#### SQL [stackexchange](https://data.stackexchange.com/stackoverflow/query/new)  
+
 #### [Т1](https://voronezh.hh.ru/employer/4649269?dpt=4649269-4649269-innoteh&hhtmFrom=vacancy) (интегратор, 4,3)  
 Поставила встречу **24.04.25 в 12.00**  
 Подключиться к DION  
