@@ -1,6 +1,8 @@
 ### Заметки  
 
-#### SQL [stackexchange](https://data.stackexchange.com/stackoverflow/query/new)  
+#### SQL online editor
+[stackexchange](https://data.stackexchange.com/stackoverflow/query/new)  
+[onecompiler](https://onecompiler.com)  
 
 ### TOP: snowflake, databricks, Apache Iceberg  
 
@@ -16,6 +18,7 @@ https://dion.vc/event/smanyakhina-aaa
 +7(495)123-35-99, доб. 1362443  
 Номер для подключения с терминала:1362443  
 
+
 #### [ЦУМ (Digital & IT)](https://hh.ru/vacancy/116342335?hhtmFrom=employer_vacancy_responses) (3,8)  
 интервью с руководителем по Zoom в понедельник на следующей неделе, **24.02 в 14:00** по МСК подтверждаю). Ссылочка на встречу:  
 Подключиться к конференции Zoom  
@@ -27,11 +30,13 @@ https://tsum-ru.zoom.us/j/86525905255?pwd=2hA0jwFDIoXo7VdvWXtCsRRdOD4UYa.1
 **24.04.25 в 15.00**  
 @eelleennss
 
+#### [Ekleft](https://ekleft.ru/)  
+**24.04.25 после 18**  
++7 925 253-13-03  
+
 #### [Лига Цифровой Экономики](https://voronezh.hh.ru/vacancy/116155206) (4,2)  
 **24.04.25 после 18**  
 +7 905 049-38-79  
 
-#### [Ekleft](https://ekleft.ru/)  
-**24.04.25 после 18**  
-+7 925 253-13-03  
+
 
