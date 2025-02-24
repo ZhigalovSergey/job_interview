@@ -3,6 +3,7 @@
 #### SQL online editor
 [stackexchange](https://data.stackexchange.com/stackoverflow/query/new)  
 [onecompiler](https://onecompiler.com)  
+[leetcode](https://leetcode.com/)  
 
 ### TOP: snowflake, databricks, Apache Iceberg  
 
