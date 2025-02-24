@@ -30,11 +30,13 @@ https://tsum-ru.zoom.us/j/86525905255?pwd=2hA0jwFDIoXo7VdvWXtCsRRdOD4UYa.1
 **24.04.25 в 15.00**  
 @eelleennss
 
+#### [Ekleft](https://ekleft.ru/)  
+**24.04.25 после 18**  
++7 925 253-13-03  
+
 #### [Лига Цифровой Экономики](https://voronezh.hh.ru/vacancy/116155206) (4,2)  
 **24.04.25 после 18**  
 +7 905 049-38-79  
 
-#### [Ekleft](https://ekleft.ru/)  
-**24.04.25 после 18**  
-+7 925 253-13-03  
+
 
