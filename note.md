@@ -1,6 +1,8 @@
 ### Заметки  
 
-#### SQL [stackexchange](https://data.stackexchange.com/stackoverflow/query/new)  
+#### SQL online editor
+[stackexchange](https://data.stackexchange.com/stackoverflow/query/new)  
+[onecompiler](https://onecompiler.com)  
 
 ### TOP: snowflake, databricks, Apache Iceberg  
 
@@ -15,6 +17,7 @@ https://dion.vc/event/smanyakhina-aaa
 Номер для звонка с телефона  
 +7(495)123-35-99, доб. 1362443  
 Номер для подключения с терминала:1362443  
+
 
 #### [ЦУМ (Digital & IT)](https://hh.ru/vacancy/116342335?hhtmFrom=employer_vacancy_responses) (3,8)  
 интервью с руководителем по Zoom в понедельник на следующей неделе, **24.02 в 14:00** по МСК подтверждаю). Ссылочка на встречу:  
