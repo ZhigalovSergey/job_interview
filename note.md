@@ -22,12 +22,18 @@
 Ссылка: https://onect.it-one.ru/zoominterview/9500136.  
 
 #### [Т1](https://voronezh.hh.ru/employer/4649269?dpt=4649269-4649269-innoteh&hhtmFrom=vacancy) (интегратор, 4,3)  
-**27.02.25 в 17.00**  
+**27.02 в 17.00**  
 Подключиться к DION  
 https://dion.vc/event/smanyakhina-aaa  
 Номер для звонка с телефона  
 +7(495)123-35-99, доб. 1362443  
 Номер для подключения с терминала:1362443  
+
+#### [Лига Цифровой Экономики](https://voronezh.hh.ru/vacancy/116155206) (4,2)  
+**03.03 в 12.00**  
+Ссылка на конференцию: https://liga.ktalk.ru/room5 
+Пароль для доступа к конференции: 2023
++7 905 049-38-79 (whatsapp)  
 
 #### [ЦУМ (Digital & IT)](https://hh.ru/vacancy/116342335?hhtmFrom=employer_vacancy_responses) (3,8) (410  gross)  
 интервью с руководителем по Zoom в понедельник на следующей неделе, **24.02 в 14:00** по МСК подтверждаю). Ссылочка на встречу:  
@@ -41,7 +47,4 @@ https://tsum-ru.zoom.us/j/86525905255?pwd=2hA0jwFDIoXo7VdvWXtCsRRdOD4UYa.1
 #### [Ekleft](https://ekleft.ru/)  
 +7 925 253-13-03 (whatsapp)  
 
-#### [Лига Цифровой Экономики](https://voronezh.hh.ru/vacancy/116155206) (4,2)  
-Ссылка на конференцию: https://liga.ktalk.ru/room5 
-Пароль для доступа к конференции: 2023
-+7 905 049-38-79 (whatsapp)  
+
