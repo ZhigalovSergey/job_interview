@@ -22,7 +22,7 @@
 Ссылка: https://onect.it-one.ru/zoominterview/9500136.  
 
 #### [Т1](https://voronezh.hh.ru/employer/4649269?dpt=4649269-4649269-innoteh&hhtmFrom=vacancy) (интегратор, 4,3)  
-**27.02 в 17.00**  
+**28.02 в 15.00**  
 Подключиться к DION  
 https://dion.vc/event/smanyakhina-aaa  
 Номер для звонка с телефона  
