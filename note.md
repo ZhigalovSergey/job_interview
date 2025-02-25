@@ -45,4 +45,3 @@ https://tsum-ru.zoom.us/j/86525905255?pwd=2hA0jwFDIoXo7VdvWXtCsRRdOD4UYa.1
 Ссылка на конференцию: https://liga.ktalk.ru/room5 
 Пароль для доступа к конференции: 2023
 +7 905 049-38-79 (whatsapp)  
-
