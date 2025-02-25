@@ -11,15 +11,15 @@
 
 **рассказать о себе, любимом проекте, а также конфликтной ситуации**  
 
-#### [Яндекс.Маркет](https://getmatch.ru/vacancies/21403?s=my_vacancies)  
-**26.02 в 13:00**  
-Первая встреча - Код SQL  
-Ссылка на видеовстречу: https://yandex.zoom.us/j/93295457287  
-@eelleennss  
-
 #### [IT_ONE](https://www.it-one.ru/vacancies/28a572d32c264c0469f8f97193fa84c5/)  (410  gross)  
 **27.02 в 12:00**.  
 Ссылка: https://onect.it-one.ru/zoominterview/9500136.  
+
+#### [Яндекс.Маркет](https://getmatch.ru/vacancies/21403?s=my_vacancies)  
+**27.02 в 17:00**  
+Первая встреча - Код SQL  
+Ссылка на видеовстречу: https://yandex.zoom.us/j/93295457287  
+@eelleennss  
 
 #### [Т1](https://voronezh.hh.ru/employer/4649269?dpt=4649269-4649269-innoteh&hhtmFrom=vacancy) (интегратор, 4,3)  
 **28.02 в 15.00**  
