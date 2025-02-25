@@ -17,7 +17,7 @@
 Ссылка на видеовстречу: https://yandex.zoom.us/j/93295457287  
 @eelleennss  
 
-#### [IT_ONE](https://www.it-one.ru/vacancies/28a572d32c264c0469f8f97193fa84c5/)  (410  gross)
+#### [IT_ONE](https://www.it-one.ru/vacancies/28a572d32c264c0469f8f97193fa84c5/)  (410  gross)  
 **27.02 в 12:00**.  
 Ссылка: https://onect.it-one.ru/zoominterview/9500136.  
 
@@ -29,7 +29,7 @@ https://dion.vc/event/smanyakhina-aaa
 +7(495)123-35-99, доб. 1362443  
 Номер для подключения с терминала:1362443  
 
-#### [ЦУМ (Digital & IT)](https://hh.ru/vacancy/116342335?hhtmFrom=employer_vacancy_responses) (3,8)  
+#### [ЦУМ (Digital & IT)](https://hh.ru/vacancy/116342335?hhtmFrom=employer_vacancy_responses) (3,8) (410  gross)  
 интервью с руководителем по Zoom в понедельник на следующей неделе, **24.02 в 14:00** по МСК подтверждаю). Ссылочка на встречу:  
 Подключиться к конференции Zoom  
 https://tsum-ru.zoom.us/j/86525905255?pwd=2hA0jwFDIoXo7VdvWXtCsRRdOD4UYa.1  
