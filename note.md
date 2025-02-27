@@ -37,9 +37,9 @@ https://dion.vc/event/smanyakhina-aaa
 
 #### []()  
 **28.02 в 17.00**  
-Прикреплена видеовстреча Яндекс.Телемост
-https://telemost.yandex.ru/j/62274802305731
-@somereazons
+Прикреплена видеовстреча Яндекс.Телемост  
+https://telemost.yandex.ru/j/62274802305731  
+@somereazons  
 
 #### [Лига Цифровой Экономики](https://voronezh.hh.ru/vacancy/116155206) (4,2)  
 **03.03 в 12.00**  
