@@ -31,7 +31,7 @@ https://dion.vc/event/smanyakhina-aaa
 +7(495)123-35-99, доб. 1362443  
 Номер для подключения с терминала:1362443  
 
-#### []()  
+#### [sberhealth](https://sberhealth.ru/)  
 **28.02 в 17.00**  
 Прикреплена видеовстреча Яндекс.Телемост  
 https://telemost.yandex.ru/j/62274802305731  
